@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Date Entry Input Study</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="leftRButton">Left Hand</string>
+    <string name="rightRButton">Right Hand</string>
+    <string name="bothRButton">Ambidextrous</string>
+
+    <string name="andRButton">Android</string>
+    <string name="appleRButton">Apple</string>
+    <string name="otherRButton">Other</string>
+    <string name="dailyRButton">Daily Use</string>
+    <string name="weeklyRButton">Weekly Use</string>
+    <string name="monthlyRButton">Monthly Use</string>
+    <string name="ltMonthlyRButton">Less than monthly</string>
+</resources>

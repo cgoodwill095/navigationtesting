@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_first_layout"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="First Layout" />
+        <item
+            android:id="@+id/nav_second_layout"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Second Layout" />
+        <item
+            android:id="@+id/nav_third_layout"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Third Layout" />
+        <item
+            android:id="@+id/nav_fourth_layout"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Fourth Layout"/>
+    </group>
+
+    <item android:title="Recording User Actions">
+        <menu>
+            <item
+                android:id="@+id/nav_user_info_layout"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Record User Info" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
